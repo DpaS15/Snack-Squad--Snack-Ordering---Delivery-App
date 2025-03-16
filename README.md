@@ -1,0 +1,2 @@
+# Snack Squad- Snack Ordering & Delivery App
+ Snack Squad is a customizable snack ordering and delivery Android application built using Jetpack Compose. It provides a modern e-commerce experience where users can browse snacks, add them to a cart, and complete their purchases. The app features Firebase Authentication for secure login, Room Database for data management, and an admin dashboard for managing orders. 
